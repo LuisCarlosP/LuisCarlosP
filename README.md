@@ -47,7 +47,7 @@ Right now I'm diving into **TensorFlow** and **Machine Learning** — built an A
 ---
 
 <div align="center">
-  <i>Thanks for stopping by! Feel free to reach out if you want to collaborate on something cool.</i>
+  <i>Thanks for stopping by! Feel free to reach out if you want to collaborate.</i>
 </div>
 
 ---
