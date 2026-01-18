@@ -1,4 +1,4 @@
-# Hey! I'm Luis Carlos 👋
+# Hey! I'm Luis Carlos
 
 **Software Developer from Costa Rica**
 
